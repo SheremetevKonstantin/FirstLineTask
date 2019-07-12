@@ -1,0 +1,5 @@
+G:\GitHub\FirstLineTask\FirstLineTask\obj\Debug\FirstLineTask.csprojResolveAssemblyReference.cache
+G:\GitHub\FirstLineTask\FirstLineTask\bin\Debug\FirstLineTask.dll
+G:\GitHub\FirstLineTask\FirstLineTask\bin\Debug\FirstLineTask.pdb
+G:\GitHub\FirstLineTask\FirstLineTask\obj\Debug\FirstLineTask.dll
+G:\GitHub\FirstLineTask\FirstLineTask\obj\Debug\FirstLineTask.pdb
